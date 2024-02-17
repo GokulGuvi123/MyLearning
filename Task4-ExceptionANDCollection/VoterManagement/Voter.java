@@ -1,4 +1,4 @@
-package Exception_Handling_Voter;
+package VoterManagement;
 
 public class Voter {
 	String voterID;
