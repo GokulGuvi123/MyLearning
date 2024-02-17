@@ -1,4 +1,4 @@
-package Exception_Handling;
+package StudentMangemant;
 
 public class NameNotValidException extends Exception {
 	
