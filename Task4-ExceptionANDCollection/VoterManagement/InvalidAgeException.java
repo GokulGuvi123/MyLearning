@@ -1,4 +1,4 @@
-package Exception_Handling_Voter;
+package VoterManagement;
 
 public class InvalidAgeException extends Exception {
 	public InvalidAgeException(String message) {
