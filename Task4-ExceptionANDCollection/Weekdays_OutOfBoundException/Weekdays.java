@@ -1,4 +1,4 @@
-package Exception_Handling_OutofBound;
+package Weekdays_OutOfBoundException;
 
 import java.util.Scanner;
 
